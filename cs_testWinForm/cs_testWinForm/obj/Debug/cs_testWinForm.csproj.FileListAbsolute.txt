@@ -1,0 +1,9 @@
+C:\Users\mr_re\source\repos\mtysfuji\C\cs_testWinForm\cs_testWinForm\bin\Debug\cs_testWinForm.exe.config
+C:\Users\mr_re\source\repos\mtysfuji\C\cs_testWinForm\cs_testWinForm\bin\Debug\cs_testWinForm.exe
+C:\Users\mr_re\source\repos\mtysfuji\C\cs_testWinForm\cs_testWinForm\bin\Debug\cs_testWinForm.pdb
+C:\Users\mr_re\source\repos\mtysfuji\C\cs_testWinForm\cs_testWinForm\obj\Debug\cs_testWinForm.Form1.resources
+C:\Users\mr_re\source\repos\mtysfuji\C\cs_testWinForm\cs_testWinForm\obj\Debug\cs_testWinForm.Properties.Resources.resources
+C:\Users\mr_re\source\repos\mtysfuji\C\cs_testWinForm\cs_testWinForm\obj\Debug\cs_testWinForm.csproj.GenerateResource.cache
+C:\Users\mr_re\source\repos\mtysfuji\C\cs_testWinForm\cs_testWinForm\obj\Debug\cs_testWinForm.csproj.CoreCompileInputs.cache
+C:\Users\mr_re\source\repos\mtysfuji\C\cs_testWinForm\cs_testWinForm\obj\Debug\cs_testWinForm.exe
+C:\Users\mr_re\source\repos\mtysfuji\C\cs_testWinForm\cs_testWinForm\obj\Debug\cs_testWinForm.pdb
