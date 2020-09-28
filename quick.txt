@@ -1,4 +1,0 @@
-The quick brown fox jumps
-Over the lazy dog.
-abc,abc,abc is abc.
-Zompyc killed the fox.
